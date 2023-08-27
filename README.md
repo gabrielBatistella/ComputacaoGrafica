@@ -1,2 +1,2 @@
-# SCC0250-Computa-o-Gr-fica
+# SCC0250-Computação-Gráfica
 Trabalhos desenvolvidos na disciplina de Computação Gráfica
